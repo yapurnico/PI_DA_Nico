@@ -145,7 +145,7 @@ Después del análisis realizado, se han identificado los siguientes Indicadores
 -(KPI_2 Power BI): Precio Promedio vs Precio Promedio histórico
 -(KPI_3 Power BI): Porcentaje de Variación Precio últimos 7 días 
 
-    ![Dashboard Criptomedas](Dashboard_Criptocurrency.jpeg)
+![Dashboard Criptomonedas](Dashboard_Criptocurrency.jpeg)
 
 A través de estos KPI's podemos sacar las siguientes conclusiones,
 Si el precio promedio del último mes esta por encima del precio promedio histórico, puede que la moneda se mantenga estable por mas que se experimente una disminución del valor del activo en los últimos días.
