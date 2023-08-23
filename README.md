@@ -8,7 +8,7 @@
 - Introducción
 - ETL
 - EDA (Análisis Exploratorio de Datos)
-- KPI's
+- KPI' y Conclusiones
 - Archivos/Links.
 
 ## Introducción
@@ -126,17 +126,15 @@ A continuación se enlistan conceptos básicos necesarios para entender el mundo
 - Analisis de NFTs, plataformas con mayor cantidad de NFTs.
     ![Plataformas con mayor número de NFT's](seis.png)
 
-- Analisis de correlación entre Cryptocurrencys respecto a Bitcoin.
-    ![Correlación entre Cryptocurrencys respecto a Bitcoin](siete.jpeg)
-
 - Análisis de correlación entre Volumen, Precio, Variación de Precio y capitalización de mercado
     ![Correlacion entre variables Bitcoin](ocho.png)
 
-- Conclusión y elección de KPI's que van a ser el soporte para la toma de decisiones sobre los activos en criptomonedas de la empresa
-    Concluyendo el ánalisis seleccione 3 variables para tomar deciciones sobre la gestion de los activos de la empresa en criptomonedas.
+- Conclusión para la toma de decisiones sobre los activos en criptomonedas de la empresa
+    Finalizado el ánalisis seleccione 3 variables para tomar deciciones sobre la gestion de los activos de la empresa en criptomonedas.
     Estas son la capitalización de Mercado, el precio y el volumen. En los datos se puede observar como las monedas con mayor capitalización de Mercado enfrentan una menor volatilidad en precios. También se observa como el volumen de movimiento está estrechamente relacionado con la liquidez del mercado.
     Una criptomoneda con un alto volumen suele tener una mayor liquidez, lo que facilita la compra y venta de la criptomoneda
     sin afectar significativamente su precio, esto queda demostrado en los datos.
+    Puedo concluir también que la variación de precios esta directamente relacionada con el capital de mercado.
     Para monitorear estas variables se crearon en Power BI los KPI's que se enlistan el la siguiente sección.
 
 ## KPI's, Conclusiones/Recomendaciones.
@@ -147,9 +145,22 @@ Después del análisis realizado, se han identificado los siguientes Indicadores
 -(KPI_2 Power BI): Precio Promedio vs Precio Promedio histórico
 -(KPI_3 Power BI): Porcentaje de Variación Precio últimos 7 días 
 
+    ![Dashboard Criptomedas](Dashboard_Criptocurrency.jpeg)
+
+A través de estos KPI's podemos sacar las siguientes conclusiones,
+Si el precio promedio del último mes esta por encima del precio promedio histórico, puede que la moneda se mantenga estable por mas que se experimente una disminución del valor del activo en los últimos días.
+Si se experimenta una disminución en el volumen de mercado y una capitalización de mercado por debajo del promedio histórico hay una falta de liquidez en el activo.
+Si se experimenta una disminución en el volumen de mercado y una capitalización de mercado por encima del promedio histórico se puede deber a una consolidación despues de fuertes movimientos de precios o a una espera ente noticias o eventos como un próximo halve in.
+Una capitalización de mercado por encima del promedio histórico puede indicar confianza y mayor demanda e interés por nuevos desarrollos entre otros.
+Con estos KPI's acompañados de métricas informativas y mayor información se espera poder sacar conclusiones y tomar mejores decisiones sobre los activos de la empresa en criptomonedas.
+
 
 ## Archivos/Links: 
 
-- Archivos: EDA.ipynb, ETL.ipynb, Criptomonedas_KPI.pbix
+- Archivos: EDA.ipynb, ETL.ipynb, Criptomonedas_KPI.pbix   
+    [ver Github](https://github.com/yapurnico/PI_DA_Nico)
 - Dataframes: Dim_Coin_Categories.csv, Dim_Coins_and_Categories.csv, Dim_Coins.csv, Fact_Coin_Categories.csv,Fact_coin_mkt_Cap.csv,       Fact_Coins.csv.
+    [ver Github](https://github.com/yapurnico/PI_DA_Nico)
+- Archivo PBI con KPI's y métricas:
+    [ver Archivo PBI](https://drive.google.com/file/d/1qDDiYKtzkTq0TpZakBV8H3yefEd3vMFt/view?usp=sharing)
 
