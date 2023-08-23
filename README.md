@@ -111,13 +111,13 @@ A continuación se enlistan conceptos básicos necesarios para entender el mundo
 
     Los NFT, o Tokens No Fungibles (por sus siglas en inglés "Non-Fungible Tokens"), son una forma de activo digital única e indivisible que se utiliza para representar la propiedad o la autenticidad de un objeto digital específico, como imágenes, videos, música, arte digital, coleccionables en línea y más. A diferencia de las criptomonedas tradicionales como Bitcoin o Ethereum, que son fungibles (intercambiables entre sí), los NFT son únicos y no pueden ser intercambiados uno por otro en un uno a uno. Analizé las plataformas mas elegidas para NFT trading, en caso de que la empresa este interesada en este mercado.
 
--Categorias de cryptomonedas por market cap en millones (market_cap_mill).
+-Categorias de cryptomonedas por capitalización de mercado.
     ![Top 5 Categorías de Criptomonedas por Capitalización de Mercado](dos.png)
 
-- Top Categorias de cryptomonedas más usadas por market cap en millones (market_cap_mill).
+- Top Categorias de cryptomonedas más usadas.
     ![Top Categorias de cryptomonedas más usadas por capitalización de mercado](tres.jpeg)
 
-- Monedas con mayor market cap.
+- Monedas con mayor capitalización de mercado (Market Cap.).
     ![Top Categorías de Criptomonedas por Capitalización de Mercado](cuatro.jpeg)
 
 - Analizando Exchanges, Cantidad por Origen, y Exchanges mas confiables por país de origen.
@@ -145,7 +145,7 @@ Después del análisis realizado, se han identificado los siguientes Indicadores
 -(KPI_2 Power BI): Precio Promedio vs Precio Promedio histórico
 -(KPI_3 Power BI): Porcentaje de Variación Precio últimos 7 días 
 
-![Dashboard Criptomonedas](Dashboard_Criptocurrency.jpeg)
+![Dashboard Criptomonedas](Dashboard_pbi.jpeg)
 
 A través de estos KPI's podemos sacar las siguientes conclusiones,
 Si el precio promedio del último mes esta por encima del precio promedio histórico, puede que la moneda se mantenga estable por mas que se experimente una disminución del valor del activo en los últimos días.
