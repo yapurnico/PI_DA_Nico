@@ -1,0 +1,253 @@
+id,categories
+bitcoin,Cryptocurrency
+bitcoin,Layer 1 (L1)
+ethereum,Smart Contract Platform
+ethereum,Layer 1 (L1)
+ethereum,Ethereum Ecosystem
+tether,Mantle Ecosystem
+tether,Stablecoins
+tether,USD Stablecoin
+tether,BNB Chain Ecosystem
+tether,Solana Ecosystem
+tether,Polygon Ecosystem
+tether,Gnosis Chain Ecosystem
+tether,Arbitrum Ecosystem
+tether,Avalanche Ecosystem
+tether,Harmony Ecosystem
+tether,Moonriver Ecosystem
+tether,Near Protocol Ecosystem
+tether,Fantom Ecosystem
+tether,Moonbeam Ecosystem
+tether,Tezos Ecosystem
+tether,Cronos Ecosystem
+tether,Metis Ecosystem
+tether,Velas Ecosystem
+tether,EthereumPoW Ecosystem
+tether,Optimism Ecosystem
+tether,Ethereum Ecosystem
+tether,Canto Ecosystem
+binancecoin,Alleged SEC Securities
+binancecoin,Smart Contract Platform
+binancecoin,Exchange-based Tokens
+binancecoin,Centralized Exchange (CEX)
+binancecoin,BNB Chain Ecosystem
+binancecoin,Polygon Ecosystem
+binancecoin,Layer 1 (L1)
+binancecoin,Avalanche Ecosystem
+binancecoin,Moonriver Ecosystem
+binancecoin,Ethereum Ecosystem
+ripple,Cryptocurrency
+usd-coin,Mantle Ecosystem
+usd-coin,Solana Ecosystem
+usd-coin,ZkSync Ecosystem
+usd-coin,Canto Ecosystem
+usd-coin,Harmony Ecosystem
+usd-coin,Velas Ecosystem
+usd-coin,Optimism Ecosystem
+usd-coin,Arbitrum Nova Ecosystem
+usd-coin,Metis Ecosystem
+usd-coin,Cronos Ecosystem
+usd-coin,Ethereum Ecosystem
+usd-coin,Moonbeam Ecosystem
+usd-coin,Near Protocol Ecosystem
+usd-coin,Fantom Ecosystem
+usd-coin,Arbitrum Ecosystem
+usd-coin,Moonriver Ecosystem
+usd-coin,Avalanche Ecosystem
+usd-coin,BNB Chain Ecosystem
+usd-coin,Polygon Ecosystem
+usd-coin,Gnosis Chain Ecosystem
+usd-coin,USD Stablecoin
+usd-coin,Stablecoins
+staked-ether,Decentralized Finance (DeFi)
+staked-ether,Eth 2.0 Staking
+staked-ether,Liquid Staking Tokens
+staked-ether,Ethereum Ecosystem
+cardano,Alleged SEC Securities
+cardano,Smart Contract Platform
+cardano,Layer 1 (L1)
+cardano,Cardano Ecosystem
+dogecoin,Cryptocurrency
+dogecoin,BNB Chain Ecosystem
+dogecoin,Meme
+solana,Alleged SEC Securities
+solana,Smart Contract Platform
+solana,Solana Ecosystem
+solana,Layer 1 (L1)
+tron,Alleged SEC Securities
+tron,Smart Contract Platform
+polkadot,Smart Contract Platform
+polkadot,Polkadot Ecosystem
+polkadot,Layer 1 (L1)
+matic-network,Binance Launchpad
+matic-network,Alleged SEC Securities
+matic-network,Smart Contract Platform
+matic-network,BNB Chain Ecosystem
+matic-network,Polygon Ecosystem
+matic-network,Harmony Ecosystem
+matic-network,Moonriver Ecosystem
+matic-network,Moonbeam Ecosystem
+matic-network,Ethereum Ecosystem
+matic-network,Layer 2 (L2)
+matic-network,Zero Knowledge (ZK)
+shiba-inu,BNB Chain Ecosystem
+shiba-inu,Meme
+shiba-inu,Ethereum Ecosystem
+litecoin,Cryptocurrency
+the-open-network,Alleged SEC Securities
+the-open-network,BNB Chain Ecosystem
+the-open-network,Ethereum Ecosystem
+wrapped-bitcoin,Tokenized BTC
+wrapped-bitcoin,Wrapped-Tokens
+wrapped-bitcoin,Polygon Ecosystem
+wrapped-bitcoin,Gnosis Chain Ecosystem
+wrapped-bitcoin,Arbitrum Ecosystem
+wrapped-bitcoin,Avalanche Ecosystem
+wrapped-bitcoin,Harmony Ecosystem
+wrapped-bitcoin,Moonriver Ecosystem
+wrapped-bitcoin,Fantom Ecosystem
+wrapped-bitcoin,Moonbeam Ecosystem
+wrapped-bitcoin,Cronos Ecosystem
+wrapped-bitcoin,Metis Ecosystem
+wrapped-bitcoin,Velas Ecosystem
+wrapped-bitcoin,Optimism Ecosystem
+wrapped-bitcoin,Ethereum Ecosystem
+dai,Base Ecosystem
+dai,Stablecoins
+dai,USD Stablecoin
+dai,Decentralized Finance (DeFi)
+dai,BNB Chain Ecosystem
+dai,Polygon Ecosystem
+dai,Gnosis Chain Ecosystem
+dai,Arbitrum Ecosystem
+dai,Avalanche Ecosystem
+dai,Harmony Ecosystem
+dai,Moonriver Ecosystem
+dai,Near Protocol Ecosystem
+dai,Fantom Ecosystem
+dai,Moonbeam Ecosystem
+dai,Cronos Ecosystem
+dai,Metis Ecosystem
+dai,Arbitrum Nova Ecosystem
+dai,Velas Ecosystem
+dai,Optimism Ecosystem
+dai,Ethereum Ecosystem
+uniswap,Decentralized Exchange (DEX)
+uniswap,Exchange-based Tokens
+uniswap,Governance
+uniswap,Decentralized Finance (DeFi)
+uniswap,Yield Farming
+uniswap,Automated Market Maker (AMM)
+uniswap,BNB Chain Ecosystem
+uniswap,Polygon Ecosystem
+uniswap,Gnosis Chain Ecosystem
+uniswap,Arbitrum Ecosystem
+uniswap,Avalanche Ecosystem
+uniswap,Harmony Ecosystem
+uniswap,Optimism Ecosystem
+uniswap,Ethereum Ecosystem
+avalanche-2,Smart Contract Platform
+avalanche-2,Layer 1 (L1)
+avalanche-2,Avalanche Ecosystem
+leo-token,Exchange-based Tokens
+leo-token,Centralized Exchange (CEX)
+leo-token,Ethereum Ecosystem
+bitcoin-cash,Smart Contract Platform
+bitcoin-cash,Layer 1 (L1)
+chainlink,Business Services
+chainlink,Infrastructure
+chainlink,Smart Contract Platform
+chainlink,Decentralized Finance (DeFi)
+chainlink,Oracle
+chainlink,Polkadot Ecosystem
+chainlink,BNB Chain Ecosystem
+chainlink,Solana Ecosystem
+chainlink,Polygon Ecosystem
+chainlink,Gnosis Chain Ecosystem
+chainlink,Arbitrum Ecosystem
+chainlink,Avalanche Ecosystem
+chainlink,Harmony Ecosystem
+chainlink,Cardano Ecosystem
+chainlink,Near Protocol Ecosystem
+chainlink,Fantom Ecosystem
+chainlink,Edgeware Ecosystem
+chainlink,Optimism Ecosystem
+chainlink,Ethereum Ecosystem
+binance-usd,Alleged SEC Securities
+binance-usd,Stablecoins
+binance-usd,USD Stablecoin
+binance-usd,Polygon Ecosystem
+binance-usd,Gnosis Chain Ecosystem
+binance-usd,Harmony Ecosystem
+binance-usd,Moonriver Ecosystem
+binance-usd,Fantom Ecosystem
+binance-usd,Moonbeam Ecosystem
+binance-usd,Cronos Ecosystem
+binance-usd,Velas Ecosystem
+binance-usd,Ethereum Ecosystem
+stellar,Cryptocurrency
+stellar,Smart Contract Platform
+true-usd,Stablecoins
+true-usd,USD Stablecoin
+true-usd,BNB Chain Ecosystem
+true-usd,Polygon Ecosystem
+true-usd,Arbitrum Ecosystem
+true-usd,Avalanche Ecosystem
+true-usd,Harmony Ecosystem
+true-usd,Near Protocol Ecosystem
+true-usd,Fantom Ecosystem
+true-usd,Ethereum Ecosystem
+monero,Privacy Coins
+okb,Exchange-based Tokens
+okb,Centralized Exchange (CEX)
+okb,Ethereum Ecosystem
+cosmos,Alleged SEC Securities
+cosmos,Cryptocurrency
+cosmos,Cosmos Ecosystem
+cosmos,BNB Chain Ecosystem
+cosmos,Layer 1 (L1)
+cosmos,Canto Ecosystem
+ethereum-classic,Smart Contract Platform
+hedera-hashgraph,Protocol
+hedera-hashgraph,Smart Contract Platform
+hedera-hashgraph,Layer 1 (L1)
+internet-computer,Alleged SEC Securities
+internet-computer,Smart Contract Platform
+internet-computer,Governance
+internet-computer,Gaming (GameFi)
+internet-computer,Storage
+internet-computer,Metaverse
+internet-computer,NFT
+internet-computer,Internet Computer Ecosystem
+filecoin,DePIN
+filecoin,Alleged SEC Securities
+filecoin,Infrastructure
+filecoin,Storage
+quant-network,Protocol
+quant-network,Ethereum Ecosystem
+lido-dao,Infrastructure
+lido-dao,Decentralized Finance (DeFi)
+lido-dao,Polygon Ecosystem
+lido-dao,Arbitrum Ecosystem
+lido-dao,Optimism Ecosystem
+lido-dao,Liquid Staking Governance Tokens
+lido-dao,Ethereum Ecosystem
+mantle,Mantle Ecosystem
+mantle,Ethereum Ecosystem
+mantle,Layer 2 (L2)
+crypto-com-chain,Exchange-based Tokens
+crypto-com-chain,Centralized Exchange (CEX)
+crypto-com-chain,Cosmos Ecosystem
+crypto-com-chain,Layer 1 (L1)
+crypto-com-chain,Harmony Ecosystem
+crypto-com-chain,Cronos Ecosystem
+crypto-com-chain,Ethereum Ecosystem
+aptos,Smart Contract Platform
+aptos,Aptos Ecosystem
+arbitrum,Arbitrum Ecosystem
+arbitrum,Arbitrum Nova Ecosystem
+arbitrum,Ethereum Ecosystem
+arbitrum,Layer 2 (L2)
+vechain,Internet of Things (IOT)
+vechain,Business Platform
+vechain,Smart Contract Platform
