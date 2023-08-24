@@ -13,7 +13,7 @@
 
 ## Introducción
 
-Como Data Analyst la tarea es realizar un análisis del mercado de Criptomonedas, un mercado con un crecimiento exponencial y un alto potencial de oportunidades de inversión para los clientes. En este caso se llevo acabo el análisis utilizando datos de la API CoinGecko. El objetivo es entender mejor el mercado de criptomonedas para detectar oportunidades de inversión entendiendo el riesgo y optimizando la cartera actual de la empresa".
+Como Data Analyst la tarea es realizar un análisis del mercado de Criptomonedas, un mercado con un crecimiento exponencial y un alto potencial de oportunidades de inversión para los clientes. En este caso se llevo acabo un análisis utilizando datos de la API CoinGecko. El objetivo es entender mejor el mercado de criptomonedas para detectar oportunidades de inversión entendiendo el riesgo y optimizando la cartera actual de la empresa.
 El entregable del proyecto es el ETL realizado para obtener las fuentes de datos, el análisis EDA realizado para entender el mercado con sus respectivas conclusiones y recomendaciones y un dashboard con kpis para el seguimiento y toma de decisiones.
 
 ## ETL
@@ -24,11 +24,11 @@ La Extracción, Transformación y Carga (ETL) consistió en realizar los siguien
 - Endpoint "simple": Extracción de datos de la API CoinGeko a traves de la función 'get_supported_vs_currencies()' 
 - Endpoint "asset_platforms" : Extracción de datos de la API CoinGeko a traves de la función 'get_asset_platforms()'
 - Endpoint "categories" : Extracción de datos de la API CoinGeko a traves de las funciones 'get_coins_categories_list()',              'get_coins_categories()', 'get_coins_markets()' y 'get_coin_by_id()'
-    - Creacion de DF Fact_Coin_Categories.csv
-    - Creacion de DF Dim_Coin_Categories.csv
-    - Creacion de DF Fact_Coin_mkt_Cap.csv
-    - Creacion de DF Dim_Coins.csv
-    - Creacion de tabla Fact_Coins_and_Categories.csv   
+    - Creacion de Dataframe Fact_Coin_Categories.csv
+    - Creacion de Dataframe Dim_Coin_Categories.csv
+    - Creacion de Dataframe Fact_Coin_mkt_Cap.csv
+    - Creacion de Dataframe Dim_Coins.csv
+    - Creacion de Dataframe Fact_Coins_and_Categories.csv   
 - Coins Data, creacion del Dataframe Fact_Coins.csv
 
 
@@ -54,6 +54,7 @@ A continuación se enlistan conceptos básicos necesarios para entender el mundo
 - Entendiendo el mundo Criptomonedas.
 
     1) Criptomonedas (Cryptocurrency):
+
     Las criptomonedas, también conocidas como criptodivisas o monedas digitales, son formas de dinero digital diseñadas para funcionar como medio de intercambio, al igual que las monedas tradicionales como el dólar, el euro o el yen. Sin embargo, a diferencia de las monedas físicas o el dinero electrónico convencional, las criptomonedas utilizan tecnologías de criptografía y están basadas en una tecnología llamada blockchain (cadena de bloques) para garantizar la seguridad, la transparencia y la descentralización de las transacciones.
 
     Características Clave:
@@ -63,7 +64,9 @@ A continuación se enlistan conceptos básicos necesarios para entender el mundo
     - Minería
     - Anonimato y Pseudonimato
 
+
     2) Categorias de Criptomonedas:
+
     Las categorías de criptomonededas se refieren a grupos o clasificaciones en las que se pueden organizar las distintas criptomonedas según sus características y funciones principales.
 
     Existen categorías de Criptomonedas como:
@@ -88,6 +91,7 @@ A continuación se enlistan conceptos básicos necesarios para entender el mundo
     - Regulación y Cumplimiento, Algunas categorías de criptomonedas pueden estar sujetas a regulaciones específicas debido a su naturaleza, como las criptomonedas de seguridad. Comprender estas regulaciones es esencial para evitar problemas legales y garantizar el cumplimiento normativo.
     - Tendencias del Mercado, las diferentes categorías de criptomonedas pueden experimentar tendencias y ciclos de mercado únicos. Al observar las tendencias históricas y actuales de cada categoría, puedes tomar decisiones más informadas sobre cuándo comprar, vender o mantener tus inversiones.
 
+
     3) Capitalización de Mercado (Market_Cap):
 
     Capitalización de Mercado = Cantidad Total de Monedas en Circulación x Precio Actual de la Moneda
@@ -107,9 +111,11 @@ A continuación se enlistan conceptos básicos necesarios para entender el mundo
     - Algunos exchanges pueden no estar disponibles en todas las regiones geográficas debido a regulaciones y requisitos locales.
     - El análisis de los exchanges de criptomonedas es crucial para garantizar una experiencia de inversión segura, eficiente y satisfactoria. 
 
+
     5) NFT's:
 
     Los NFT, o Tokens No Fungibles (por sus siglas en inglés "Non-Fungible Tokens"), son una forma de activo digital única e indivisible que se utiliza para representar la propiedad o la autenticidad de un objeto digital específico, como imágenes, videos, música, arte digital, coleccionables en línea y más. A diferencia de las criptomonedas tradicionales como Bitcoin o Ethereum, que son fungibles (intercambiables entre sí), los NFT son únicos y no pueden ser intercambiados uno por otro en un uno a uno. Analizé las plataformas mas elegidas para NFT trading, en caso de que la empresa este interesada en este mercado.
+
 
 -Categorias de cryptomonedas por capitalización de mercado.
     ![Top 5 Categorías de Criptomonedas por Capitalización de Mercado](dos.png)
@@ -130,7 +136,7 @@ A continuación se enlistan conceptos básicos necesarios para entender el mundo
     ![Correlacion entre variables Bitcoin](ocho.png)
 
 - Conclusión para la toma de decisiones sobre los activos en criptomonedas de la empresa
-    Finalizado el ánalisis seleccione 3 variables para tomar deciciones sobre la gestion de los activos de la empresa en criptomonedas.
+    Finalizado el ánalisis seleccione 3 variables a estudiar y tener en cuenta a la hora de tomar deciciones sobre la gestion de los activos de la empresa en criptomonedas.
     Estas son la capitalización de Mercado, el precio y el volumen. En los datos se puede observar como las monedas con mayor capitalización de Mercado enfrentan una menor volatilidad en precios. También se observa como el volumen de movimiento está estrechamente relacionado con la liquidez del mercado.
     Una criptomoneda con un alto volumen suele tener una mayor liquidez, lo que facilita la compra y venta de la criptomoneda
     sin afectar significativamente su precio, esto queda demostrado en los datos.
@@ -139,11 +145,12 @@ A continuación se enlistan conceptos básicos necesarios para entender el mundo
 
 ## KPI's, Conclusiones/Recomendaciones.
 
-Después del análisis realizado, se han identificado los siguientes Indicadores Clave de Proceso (KPI, por sus siglas en inglés) para respaldar la toma de decisiones de la empresa en relación con los activos en criptomonedas y las oportunidades en ese mercado:
+Después del análisis realizado, se han identificado los siguientes Indicadores Clave de Proceso (KPI, por sus siglas en inglés):
 
 -(KPI_1 Power BI): Capitalización de Mercado 
--(KPI_2 Power BI): Precio Promedio vs Precio Promedio histórico
+-(KPI_2 Power BI): Precio Promedio en periodo seleccionado vs Precio Promedio histórico
 -(KPI_3 Power BI): Porcentaje de Variación Precio últimos 7 días 
+-(KPI_4 Power BI): Volumen promedio en periodo seleccionado vs Volumen promedio histórico
 
 ![Dashboard Criptomonedas](Dashboard_pbi.jpeg)
 
