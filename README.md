@@ -53,7 +53,7 @@ A continuación se enlistan conceptos básicos necesarios para entender el mundo
 
 - Entendiendo el mundo Criptomonedas.
 
-    1) Criptomonedas (Cryptocurrency):
+    1. Criptomonedas (Cryptocurrency):
 
     Las criptomonedas, también conocidas como criptodivisas o monedas digitales, son formas de dinero digital diseñadas para funcionar como medio de intercambio, al igual que las monedas tradicionales como el dólar, el euro o el yen. Sin embargo, a diferencia de las monedas físicas o el dinero electrónico convencional, las criptomonedas utilizan tecnologías de criptografía y están basadas en una tecnología llamada blockchain (cadena de bloques) para garantizar la seguridad, la transparencia y la descentralización de las transacciones.
 
@@ -65,7 +65,7 @@ A continuación se enlistan conceptos básicos necesarios para entender el mundo
     - Anonimato y Pseudonimato
 
 
-    2) Categorias de Criptomonedas:
+    2. Categorias de Criptomonedas:
 
     Las categorías de criptomonededas se refieren a grupos o clasificaciones en las que se pueden organizar las distintas criptomonedas según sus características y funciones principales.
 
@@ -92,7 +92,7 @@ A continuación se enlistan conceptos básicos necesarios para entender el mundo
     - Tendencias del Mercado, las diferentes categorías de criptomonedas pueden experimentar tendencias y ciclos de mercado únicos. Al observar las tendencias históricas y actuales de cada categoría, puedes tomar decisiones más informadas sobre cuándo comprar, vender o mantener tus inversiones.
 
 
-    3) Capitalización de Mercado (Market_Cap):
+    3. Capitalización de Mercado (Market_Cap):
 
     Capitalización de Mercado = Cantidad Total de Monedas en Circulación x Precio Actual de la Moneda
     Es una métrica fundamental que proporciona una idea del tamaño relativo y la importancia de una criptomoneda en comparación con otras en el mercado.
@@ -102,7 +102,7 @@ A continuación se enlistan conceptos básicos necesarios para entender el mundo
     - Las criptomonedas con mayores capitalizaciones de mercado tienden a tener mayor liquidez y volumen de operaciones.Esto significa que es más fácil comprar y vender estas criptomonedas sin afectar significativamente su precio.
  
 
-    4) Exchanges:
+    4. Exchanges:
     
     Los exchanges de criptomonedas son plataformas en línea donde los usuarios pueden comprar, vender e intercambiar diversas criptomonedas.
     Estas plataformas actúan como intermediarios que facilitan la negociación entre compradores y vendedores, proporcionando un lugar seguro y eficiente para realizar transacciones con criptomonedas. Los exchanges permiten a los usuarios convertir criptomonedas en monedas fiduciarias (como dólares, euros, etc.) o intercambiar una criptomoneda por otra.
@@ -112,7 +112,7 @@ A continuación se enlistan conceptos básicos necesarios para entender el mundo
     - El análisis de los exchanges de criptomonedas es crucial para garantizar una experiencia de inversión segura, eficiente y satisfactoria. 
 
 
-    5) NFT's:
+    5. NFT's:
 
     Los NFT, o Tokens No Fungibles (por sus siglas en inglés "Non-Fungible Tokens"), son una forma de activo digital única e indivisible que se utiliza para representar la propiedad o la autenticidad de un objeto digital específico, como imágenes, videos, música, arte digital, coleccionables en línea y más. A diferencia de las criptomonedas tradicionales como Bitcoin o Ethereum, que son fungibles (intercambiables entre sí), los NFT son únicos y no pueden ser intercambiados uno por otro en un uno a uno. Analizé las plataformas mas elegidas para NFT trading, en caso de que la empresa este interesada en este mercado.
 
