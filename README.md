@@ -24,6 +24,7 @@ La Extracción, Transformación y Carga (ETL) consistió en realizar los siguien
 - Endpoint "simple": Extracción de datos de la API CoinGeko a traves de la función 'get_supported_vs_currencies()' 
 - Endpoint "asset_platforms" : Extracción de datos de la API CoinGeko a traves de la función 'get_asset_platforms()'
 - Endpoint "categories" : Extracción de datos de la API CoinGeko a traves de las funciones 'get_coins_categories_list()',              'get_coins_categories()', 'get_coins_markets()' y 'get_coin_by_id()'
+- Análisis de Outliers, valores duplicados, nulos, procesamiento de datos.
     - Creacion de Dataframe Fact_Coin_Categories.csv
     - Creacion de Dataframe Dim_Coin_Categories.csv
     - Creacion de Dataframe Fact_Coin_mkt_Cap.csv
